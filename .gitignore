@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Compiled Java class files
+*.class
+
+# Build directory
+build/
+
+# VS Code settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Web servers / deployment
+*.war
+*.ear
