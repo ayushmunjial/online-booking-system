@@ -2,7 +2,7 @@
 
 **Developer:** Ayush Munjial  
 **Technologies:** Java · JSP · JDBC · MySQL · Apache Tomcat · HTML/CSS · JavaScript  
-**Project Duration:** November 2024 – December 2024
+**Project Duration:** Nov 2024 – Dec 2024
 
 ---
 
